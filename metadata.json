@@ -1,0 +1,8 @@
+{
+  "name": "Fuel Track Field Guide",
+  "description": "Installation, wiring diagrams, calibration calculators, and fault-finding guide for Fuel Track field technicians.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
